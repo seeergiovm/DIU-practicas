@@ -69,7 +69,10 @@ Por otro lado está Miriam, que consigue realizar la reserva. Tuvo ciertas dudas
 >>> - Valoración final (numérica): 
 >>> - Comentario sobre la valoración:  (60-120 caracteres)
 
-[Documento de revisión de usabilidad](P1/Usability-review-template.xls)
+- [Documento de revisión de usabilidad](P1/Usability-review-template.xls)
+- Valoración final: 65
+
+El sitio web ofrece al usuario una experiencia adecuada a su uso. La información que aporta es bastante completa, su estructuración es sencilla y clara, y crea un ambiente al usuario acorde a su temática. Es cierto que debe mejorar algunos detalles de usabilidad como de la interfaz visual, pero éstos no impiden que el usuario pueda alcanzar su objetivo. Se puede apreciar que la construcción del sitio web trató de cumplir su propósito, pero no hubo cierta preocupación en pulir detalles que al fin y al cabo pueden llegar a afectar en la experiencia del usuario.
 
 ## Paso 2. UX Design  
 
