@@ -44,12 +44,22 @@ Hemos escogido a dos personas cuyas personalidades, estilos de vida y objetivos 
 
 ![Persona2](https://user-images.githubusercontent.com/75087139/234972404-f6f0ddeb-02f6-4369-8c54-4824731a9e16.PNG)
 
-
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
+Existe un gran contraste entre las experiencias de ambos usuarios de manera intencionada, buscando el contraste de lo que puede llegar a ser una experiencia habitual, a una atípica. Esto se refleja de manera que uno de los usuarios es familiar dentro del sector y el otro no.
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+Tenemos a Fernando, el cual fracasa en su intento de reserva debido a que necesita tener un grupo con un mínimo de personas para realizar la visita. 
+
+Por otro lado está Miriam, que consigue realizar la reserva. Tuvo ciertas dudas ya que la aplicación no le pareció del todo fiable aunque finalmente realizó la visita con éxtio.
+
+- Fernando
+
+![JourneyMap1](https://user-images.githubusercontent.com/75087139/234992171-f483c4a0-6150-4b84-8ec5-0feae5b20e57.PNG)
+
+- Miriam
+
+![JourneyMap2](https://user-images.githubusercontent.com/75087139/234992315-69942145-fd9d-4825-9af5-0cee32df1f09.PNG)
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
@@ -59,6 +69,7 @@ Hemos escogido a dos personas cuyas personalidades, estilos de vida y objetivos 
 >>> - Valoración final (numérica): 
 >>> - Comentario sobre la valoración:  (60-120 caracteres)
 
+[Documento de revisión de usabilidad](P1/Usability-review-template.xls)
 
 ## Paso 2. UX Design  
 
