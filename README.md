@@ -75,47 +75,55 @@ El sitio web ofrece al usuario una experiencia adecuada a su uso. La informació
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
 ----
 
+Partiendo de las dos experiencias de los usuarios que hemos visto anteriormente, procederemos a realizar una propuesta para tratar los distintos aspectos que son mejorables de la aplicación.
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
+<img width="1008" alt="mallaReceptoraDeInformacion" src="https://user-images.githubusercontent.com/75087139/234998650-d66aa5ef-cd27-46ab-ae0d-1e6452fbeb03.png">
     
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
+Nuestro objetivo es rediseñar su aplicación web para informar a los usuarios de qué es Artesanía Nazarí, a qué se dedica y para ofrecer su servicio de visitas al taller como la venta de productos de la tienda.
 
-
+Tenemos una propuesta de mejora para el sitio web donde nos preocuparemos de que el usuario obtenga la mejor experiencia posible. Para ello, mejoraremos la disposición de los distintos elementos que contiene la página, mejoraremos la accesibilidad al cliente para que pueda realizar la visita sin que nosotros le proporcionemos ningún impedimento e incluso se considerará realizar ofertas semanalas para captar la atención del usuario. También se intentará que la información dispuesta sea lo más aclarativa posible para evitar consultas frecuentes de los usuarios o que la falta de ésta pueda provocar su desinterés por nosotros.
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+
+<img width="2157" alt="Propuesta de valor" src="https://user-images.githubusercontent.com/75087139/234998727-4f4d34e3-8d19-479b-9e49-0bb3af8f2c2b.png">
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+Para poder hacer un análisis comparativo de las distintas tareas que pueden realizar los usuarios con su respectiva relevancia, dispondremos de una tabla. Valoraremos la frecuencia de uso en H (High/Alta), M (Medium/Media) y L (Low/Baja). Hemos identificado cuáles podrían ser los principales tipos de usuario:
 
+-	Usuario medio que quiere visitar el taller: cualquier persona que tenga interés en hacer una visita.
+-	Grupos: como amigos, excursiones de instituciones educativas, viajes del inserso, erasmus, etc.
+-	Artesanos o personas interesadas en el arte: incluímos aquí a artistas o apasionados por el arte que tendrán más conocimientos y experiencia en el sector.
+
+<img width="1024" alt="Matriz tareas-usuarios" src="https://user-images.githubusercontent.com/75087139/234999043-bb94cb1a-77e6-4d1f-9ba3-44a0a207e529.png">
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
+<img width="1255" alt="SiteMap" src="https://user-images.githubusercontent.com/75087139/235002765-3a3ca2c0-0739-4588-8799-da33c3effc7d.png">
 
->>> Identificar términos para diálogo con usuario  
-
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
+<img width="1072" alt="Labelling" src="https://user-images.githubusercontent.com/75087139/235002793-5050fc8f-6ce2-4843-84ab-d80b93aa13b5.png">
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+Por último, después de recabar toda esta información, se ha creado un prototipo de la interfaz de la aplicación web. Se muestran algunas de las secciones más relevantes de nuestra web:
+
+- **Página de inicio**
+
+![index](https://user-images.githubusercontent.com/75087139/235003797-c7d16936-ed7b-4967-9aab-a30162794b74.png)
+
+
+- **Página de la información de las visitas al taller**
+
+![workshop_visit](https://user-images.githubusercontent.com/75087139/235003833-8cdde7d8-d6cf-495b-90cb-ad60c7e722cc.png)
+
+- **Página para unirse a un grupo para la visita**
+
+![join_group](https://user-images.githubusercontent.com/75087139/235003856-a8922fa8-ff7b-4c10-9fe8-7466e4aa72e2.png)
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
