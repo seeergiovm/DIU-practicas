@@ -13,12 +13,10 @@ Rediseñaremos la aplicación web de manera que mejoraremos su usabilidad y aspe
 
 Logotipo: 
 
-<div style="text-align:center">
 ![logo](https://user-images.githubusercontent.com/75087139/234957732-ecd6728c-a467-4cdc-8062-9e9beb069899.PNG)
-</div>
  
 Miembros
- * :bust_in_silhouette:   Sergio Vargas Martín     :octocat:     
+ * :bust_in_silhouette:   Sergio Vargas Martín     :octocat:    www.github.com/seeergiovm 
 
 ----- 
 
@@ -65,11 +63,6 @@ Por otro lado está Miriam, que consigue realizar la reserva. Tuvo ciertas dudas
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
 
 - [Documento de revisión de usabilidad](P1/Usability-review-template.xls)
 - Valoración final: 65
