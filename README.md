@@ -13,7 +13,7 @@ Rediseñaremos la aplicación web de manera que mejoraremos su usabilidad y aspe
 
 Logotipo: 
 
-<div style="text-align:center>
+<div style="text-align:center">
 ![logo](https://user-images.githubusercontent.com/75087139/234957732-ecd6728c-a467-4cdc-8062-9e9beb069899.PNG)
 </div>
  
