@@ -29,12 +29,21 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+Se han encontrado algunas aplicaciones con propuestas similares a nuestro objeto de estudio (Artesanía Nazarí). Aunque estas aplicaciones son un poco dispares en relación a la presentación de su producto en comparación con la principal, son las que nos han parecido más adecuadas en cuanto a hacer una análisis de compentencia. Escogemos Artesanía Nazarí ya que es la más completa en cuanto a sitio web y con algunas imperfecciones que podemos tratar.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+Hemos escogido a dos personas cuyas personalidades, estilos de vida y objetivos sean lo suficientemente dispares para poder englobar el mayor número de perfiles de usuarios que podrían visitar la aplicación.
+
+- *Fernando Peralvo*
+
+![Persona1](https://user-images.githubusercontent.com/75087139/234972353-6a32fd01-5c5b-4b49-bb6a-1f38891dfff2.PNG)
+
+- *Miriam Peinado*
+
+![Persona2](https://user-images.githubusercontent.com/75087139/234972404-f6f0ddeb-02f6-4369-8c54-4824731a9e16.PNG)
+
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
