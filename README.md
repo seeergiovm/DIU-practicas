@@ -110,7 +110,7 @@ Para poder hacer un análisis comparativo de las distintas tareas que pueden rea
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
-Por último, después de recabar toda esta información, se ha creado un prototipo de la interfaz de la aplicación web. Se muestran algunas de las secciones más relevantes de nuestra web:
+Por último, después de recabar toda esta información, se ha creado un prototipo de la interfaz para la aplicación web. Se muestran algunas de las secciones más relevantes de nuestra web:
 
 - **Página de inicio**
 
