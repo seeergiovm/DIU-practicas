@@ -13,8 +13,10 @@ Rediseñaremos la aplicación web de manera que mejoraremos su usabilidad y aspe
 
 Logotipo: 
 
+<p align="center">
 ![logo](https://user-images.githubusercontent.com/75087139/234957732-ecd6728c-a467-4cdc-8062-9e9beb069899.PNG)
-
+</p>
+ 
 Miembros
  * :bust_in_silhouette:   Sergio Vargas Martín     :octocat:     
 
