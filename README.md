@@ -1,28 +1,25 @@
 # DIU23
-Prácticas Diseño Interfaces de Usuario 2022-23 (Tema: .... ) 
+Prácticas Diseño Interfaces de Usuario 2022-23 (Tema: Artesanía Nazarí ) 
 
-Grupo: DIU1_01AABB.  Curso: 2022/23 
-Updated: 11/1/2023
+Grupo: DIU3_ElMedusa.  Curso: 2022/23 
+Updated: 27/04/2023
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+Mejora del sitio web Artesanía Nazarí: Una nueva experiencia para el cliente.
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+Rediseñaremos la aplicación web de manera que mejoraremos su usabilidad y aspecto visual para una mejor experiencia para los usuarios. Se ofrecerá una gran variedad de posibilidades para que nuestros clientes puedan satisfacer una necesidad que probablemente no tendrían antes de visitar el sitio web: realizar una visita a nuestro taller.
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+
+![logo](https://user-images.githubusercontent.com/75087139/234957732-ecd6728c-a467-4cdc-8062-9e9beb069899.PNG)
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:   Sergio Vargas Martín     :octocat:     
 
 ----- 
 
-
-
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
 
 
 # Proceso de Diseño 
