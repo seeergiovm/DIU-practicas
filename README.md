@@ -114,7 +114,7 @@ Por último, después de recabar toda esta información, se ha creado un prototi
 
 - **Página de inicio**
 
-![index](https://user-images.githubusercontent.com/75087139/235003797-c7d16936-ed7b-4967-9aab-a30162794b74.png)
+![Index](https://user-images.githubusercontent.com/75087139/235186961-0f7b8d81-2b32-4f9f-95b3-c2c70db6a07b.png)
 
 
 - **Página de la información de las visitas al taller**
@@ -123,7 +123,7 @@ Por último, después de recabar toda esta información, se ha creado un prototi
 
 - **Página para unirse a un grupo para la visita**
 
-![join_group](https://user-images.githubusercontent.com/75087139/235003856-a8922fa8-ff7b-4c10-9fe8-7466e4aa72e2.png)
+![join_group](https://user-images.githubusercontent.com/75087139/235187114-d3ab1ac8-4954-4e19-a3af-20c1440a3197.png)
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
