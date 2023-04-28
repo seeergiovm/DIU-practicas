@@ -119,7 +119,7 @@ Por último, después de recabar toda esta información, se ha creado un prototi
 
 - **Página de la información de las visitas al taller**
 
-![workshop_visit](https://user-images.githubusercontent.com/75087139/235003833-8cdde7d8-d6cf-495b-90cb-ad60c7e722cc.png)
+![workshop_visit](https://user-images.githubusercontent.com/75087139/235187434-f74eafb1-b286-4f6e-8b02-ab84348a4d65.png)
 
 - **Página para unirse a un grupo para la visita**
 
