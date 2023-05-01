@@ -132,11 +132,17 @@ Por último, después de recabar toda esta información, se ha creado un prototi
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 
+Para darle forma al diseño visual, se empleará un tablón conocido como Moodboard, cuyo objetivo es transmitir una idea general sobre un tema a través de imágenes, ilustraciones, textos, colores, etc.
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+<img width="1408" alt="Moodboard" src="https://user-images.githubusercontent.com/75087139/235526750-513c1d91-33dd-4b87-ad12-f4527513a637.png">
 
+**Imagotipo**
+
+Para hacer el imagotipo hemos empleado la herramienta ‘designevo’ que ofrece una gran variedad de prototipos de logos para partir en nuestro diseño. Se ha escogido un logotipo basado en formas geométricas ya que es un reflejo de las bases del mundo artístico bastante adecuado para dicho entorno.
+
+**Paleta de colores**
+
+Para la elección de la paleta de colores de la aplicación, se ha decantado por tonos tierra como el marrón, el beige y la terracota, que son colores cálidos que evocan sensaciones de materiales naturales como es en este caso que hablamos de la artesanía.
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
