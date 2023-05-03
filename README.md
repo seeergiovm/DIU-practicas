@@ -13,7 +13,7 @@ Rediseñaremos la aplicación web de manera que mejoraremos su usabilidad y aspe
 
 Logotipo: 
 
-![logo](https://user-images.githubusercontent.com/75087139/234957732-ecd6728c-a467-4cdc-8062-9e9beb069899.PNG)
+![logo_buena_re(SIN FONDO)](https://user-images.githubusercontent.com/75087139/236053793-be855290-6ef4-4ab1-aabb-4cdbf05e63b9.png)
  
 Miembros
  * :bust_in_silhouette:   Sergio Vargas Martín     :octocat:    www.github.com/seeergiovm 
@@ -136,20 +136,12 @@ Para darle forma al diseño visual, se empleará un tablón conocido como Moodbo
 
 <img width="1408" alt="Moodboard" src="https://user-images.githubusercontent.com/75087139/235526750-513c1d91-33dd-4b87-ad12-f4527513a637.png">
 
-**Imagotipo**
-
-Para hacer el imagotipo hemos empleado la herramienta ‘designevo’ que ofrece una gran variedad de prototipos de logos para partir en nuestro diseño. Se ha escogido un logotipo basado en formas geométricas ya que es un reflejo de las bases del mundo artístico bastante adecuado para dicho entorno.
-
-**Paleta de colores**
-
-Para la elección de la paleta de colores de la aplicación, se ha decantado por tonos tierra como el marrón, el beige y la terracota, que son colores cálidos que evocan sensaciones de materiales naturales como es en este caso que hablamos de la artesanía.
-
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
 A continuación, mostraremos la página principal de la aplicación, la cual recoge de manera resumida los distintos aspectos que puede contemplar el usuario en el sitio web.
 
-Nota: Posteriormente, algunas de las imágenes serán cambiadas por vídeos proporcionados por la propia empresa en los que se puedan reforzar las diferentes ideas.
+**Nota:** Posteriormente, algunas de las imágenes serán cambiadas por vídeos proporcionados por la propia empresa en los que se puedan reforzar las diferentes ideas.
 
 ![Captura_Home](https://user-images.githubusercontent.com/75087139/236046449-1e9b4cc6-acd5-4962-bfb1-009ef1b81702.PNG)
 
@@ -159,6 +151,34 @@ Nota: Posteriormente, algunas de las imágenes serán cambiadas por vídeos prop
 
 >>> Estudio de Guidelines y Patrones IU a usar 
 >>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+
+**Imagotipo**
+
+Para obtener ideas sobre como diseñar el logotipo, se ha empleado una herramienta de IA que genera distintas propuestas de logos a partir de las propiedades que indiques. Este fue el logotipo que nos ofreció la herramienta que ha servido como inspiración.
+
+![PRE-logotipo](https://user-images.githubusercontent.com/75087139/236055115-32dba1d9-2d78-40da-8187-b2c8a12f5178.png)
+
+Posteriormente, para hacer el imagotipo hemos empleado la herramienta ‘designevo’ que ofrece una gran variedad de prototipos de logos para partir en nuestro diseño. Se ha escogido un imagotipo basado en formas geométricas ya que es un reflejo de las bases del mundo artístico bastante adecuado para dicho entorno.
+
+![logo_buena_re(SIN FONDO)](https://user-images.githubusercontent.com/75087139/236053915-676579cc-8d00-428a-8bc2-0ab0e77a9340.png)
+
+**Paleta de colores**
+
+Para la elección de la paleta de colores de la aplicación, se ha decantado por tonos tierra como el marrón, el beige y la terracota, que son colores cálidos que evocan sensaciones de materiales naturales como en este caso que hablamos de la artesanía.
+
+![Paleta de colores](https://user-images.githubusercontent.com/75087139/236057202-a6fbd53b-e008-4e0d-8a9f-15393df67066.png)
+
+**Tipografía**
+
+Se han escogido dos tipografías distintas:
+
+- **Cinzel Decorative:** Esta tipografía incluye en el diseño de sus letras la sensación de pinceladas, la cual la hace más llamativa y consigue transmitir la energía que evoca el arte. Se ha utilizado principalmente para títulos.
+
+![PruebaCinzel](https://user-images.githubusercontent.com/75087139/236059075-2c4f0be5-c7fb-443e-9990-24f320403651.PNG)
+
+- **Quicksand:**: En cambio, esta tipografía se ha escogido para facilitar la lectura del usuario y su diseño se compagina con la otra tipografía utilizada. Se ha utilizado para prácticamente todos los textos exceptuando los títulos.
+
+![PruebaQuicksand](https://user-images.githubusercontent.com/75087139/236059090-fcbc8c5b-f1d3-4702-9013-203f5ea6184b.PNG)
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
