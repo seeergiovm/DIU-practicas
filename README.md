@@ -149,9 +149,6 @@ A continuación, mostraremos la página principal de la aplicación, la cual rec
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
-
 **Imagotipo**
 
 Para obtener ideas sobre como diseñar el logotipo, se ha empleado una herramienta de IA que genera distintas propuestas de logos a partir de las propiedades que indiques. Este fue el logotipo que nos ofreció la herramienta que ha servido como inspiración.
