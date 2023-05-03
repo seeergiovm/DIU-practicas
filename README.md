@@ -169,13 +169,15 @@ Para la elección de la paleta de colores de la aplicación, se ha decantado por
 
 Se han escogido dos tipografías distintas:
 
-- **Cinzel Decorative:** Esta tipografía incluye en el diseño de sus letras la sensación de pinceladas, la cual la hace más llamativa y consigue transmitir la energía que evoca el arte. Se ha utilizado principalmente para títulos.
+- **Cinzel Decorative:** Esta tipografía incluye en el diseño de sus letras la sensación de pinceladas, la cual la hace más llamativa y consigue transmitir la energía que evoca el arte. Se ha utilizado principalmente para títulos. Ejemplo:
 
 ![PruebaCinzel](https://user-images.githubusercontent.com/75087139/236059075-2c4f0be5-c7fb-443e-9990-24f320403651.PNG)
 
-- **Quicksand:**: En cambio, esta tipografía se ha escogido para facilitar la lectura del usuario y su diseño se compagina con la otra tipografía utilizada. Se ha utilizado para prácticamente todos los textos exceptuando los títulos.
+- **Quicksand:**: En cambio, esta tipografía se ha escogido para facilitar la lectura del usuario y su diseño se compagina con la otra tipografía utilizada. Se ha utilizado para prácticamente todos los textos exceptuando los títulos. Ejemplo:
 
+<p align="center>
 ![PruebaQuicksand](https://user-images.githubusercontent.com/75087139/236059090-fcbc8c5b-f1d3-4702-9013-203f5ea6184b.PNG)
+</p>
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
