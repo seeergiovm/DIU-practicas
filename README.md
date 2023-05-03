@@ -147,8 +147,12 @@ Para la elección de la paleta de colores de la aplicación, se ha decantado por
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
+A continuación, mostraremos la página principal de la aplicación, la cual recoge de manera resumida los distintos aspectos que puede contemplar el usuario en el sitio web.
 
->>> Plantear Landing Page 
+Nota: Posteriormente, algunas de las imágenes serán cambiadas por vídeos proporcionados por la propia empresa en los que se puedan reforzar las diferentes ideas.
+
+![Captura_Home](https://user-images.githubusercontent.com/75087139/236046449-1e9b4cc6-acd5-4962-bfb1-009ef1b81702.PNG)
+
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
