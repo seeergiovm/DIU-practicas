@@ -199,10 +199,7 @@ Visita la aplicación en este [enlace](https://artesania-nazari.webflow.io).
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
-
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
-
+[UX-Cae Study](https://github.com/seeergiovm/DIU-practicas)
 
 ## Paso 4. Evaluación 
 
