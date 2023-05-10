@@ -184,8 +184,17 @@ Se han escogido dos tipografías distintas:
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+Para realizar el prototipo de nuestra aplicación web de escritorio, se han desarrollado dos de las páginas donde podremos contemplar como quedaría la interfaz en un navegador. Se ha empleado la herramienta [Webflow](https://www.webflow.com), la cual nos permite visualizar la aplicación web en un dominio permitiendo navegar en ella. 
 
+- **HomePage**
+
+![Captura_Home](https://github.com/seeergiovm/DIU-practicas/assets/75087139/1b599f84-f91c-45e2-9f7b-b128abb60210)
+
+- **Visita al taller**
+
+![Captura_Workshop](https://github.com/seeergiovm/DIU-practicas/assets/75087139/6e0943ac-9a40-4bd5-b94e-3d38717fd26c)
+
+Visita la aplicación en este [enlace](https://artesania-nazari.webflow.io).
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
