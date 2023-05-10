@@ -194,7 +194,7 @@ Para realizar el prototipo de nuestra aplicación web de escritorio, se han desa
 
 ![Captura_Workshop](https://github.com/seeergiovm/DIU-practicas/assets/75087139/6e0943ac-9a40-4bd5-b94e-3d38717fd26c)
 
-Visita la aplicación en este [enlace](https://artesania-nazari.webflow.io).
+Visita el prototipo de la aplicación en este [enlace](https://artesania-nazari.webflow.io).
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
