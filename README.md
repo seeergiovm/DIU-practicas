@@ -211,8 +211,6 @@ El proyecto que se va a evaluar se denomina [MyTourExplorer](https://github.com/
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
-
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
  
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
@@ -223,16 +221,12 @@ El proyecto que se va a evaluar se denomina [MyTourExplorer](https://github.com/
 | Sofía         | M / 50   | Agricultora | Baja        | Extrovertida | Web        | B 
 
 
-
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
+![SUS](https://github.com/seeergiovm/DIU-practicas/assets/75087139/a1c0a5b7-7dda-4ab3-af79-edf3c2c05cf2)
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
-
+Realizando un análisis de los resultados, el caso A ha obtenido una peor calificación aunque los resultados son satisfactorios pero aún mejorables. Ante esta comparativa debo destacar que el caso B que se ha valorado se caracteriza por su simplicidad, lo cual permite una mejor usabilidad a todos los públicos y no necesita un amplio conocimiento en tecnologías TIC.
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
