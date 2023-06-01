@@ -206,9 +206,7 @@ Visita el prototipo de la aplicación en este [enlace](https://artesania-nazari.
 
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
-
-
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+El proyecto que se va a evaluar se denomina [MyTourExplorer](https://github.com/Ismael034/DIU) y trata de una aplicación que permite a los usuarios organizar y unirse a tours. 
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
@@ -219,10 +217,11 @@ Visita el prototipo de la aplicación en este [enlace](https://artesania-nazari.
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| Ana           | M / 19   | Estudiante  | Alta        | Emocional    | Web        | A 
+| Eugenio       | H / 69   | Jubilado    | Baja        | Conformista  | Web        | A 
+| Vanesa        | M / 28   | Finanzas    | Media       | Antipática   | Móvil      | B 
+| Sofía         | M / 50   | Agricultora | Baja        | Extrovertida | Web        | B 
+
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
