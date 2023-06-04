@@ -231,11 +231,7 @@ Realizando un análisis de los resultados, el caso A ha obtenido una peor califi
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
-
-
-
->>> Valoración personal 
+Documento: [Usability Report](https://github.com/seeergiovm/DIU-practicas/blob/master/P4/DIU_report-template-usability-test.pdf)
 
 
 >>> ## Paso 5. Evaluación de Accesibilidad  (no necesaria)
