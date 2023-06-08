@@ -234,11 +234,11 @@ Realizando un análisis de los resultados, el caso A ha obtenido una peor califi
 Documento: [Usability Report](https://github.com/seeergiovm/DIU-practicas/blob/master/P4/DIU_report-template-usability-test.pdf)
 
 
->>> ## Paso 5. Evaluación de Accesibilidad  (no necesaria)
+## Paso 5. Evaluación de Accesibilidad  (no necesaria)
 
 
->>> ![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report 
->>>> ----
+![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report 
+----
 
 >>> Indica qué pretendes evaluar (de accesibilidad) sobre qué APP y qué resultados has obtenido 
 
@@ -246,6 +246,65 @@ Documento: [Usability Report](https://github.com/seeergiovm/DIU-practicas/blob/m
 >>> 5.b) Uso de simuladores de accesibilidad 
 
 >>> (uso de tabla de datos, indicar herramientas usadas) 
+Se va a realizar un experimento para evaluar la usabilidad de la aplicación MyTourExplorer. Para ello, vamos a utilizar una herramienta de eye tracking conocida como Gaze Recorder.
+Primero, identificaremos cuales son los puntos de interés de la aplicación:
+
+•	Conocer sobre MyTourExplorer
+•	Consultar tours disponibles
+•	Descripción del tour
+•	Reservar un tour
+•	Crear tour
+•	Contactar con los responsables del tour
+•	Buscar un tour
+
+Vamos a escoger a dos usuarios, uno de ellos será su primera experiencia en la plataforma y el otro conocerá a detalle las funcionalidades de esta. De esta manera, podremos observar el contraste en el mapa de calor haciendo una comparativa de los resultados. 
+
+•	Sergio: conoce la plataforma debido a qué ha realizado anteriormente análisis sobre ella y conoce cuáles son sus capacidades.
+•	Jose: persona escogida al azar, que se le ha propuesto un objetivo determinado sin conocer previamente la aplicación.
+
+El objetivo que se fijará será el de reservar un tour, ya que éste será el objetivo principal de la mayoría de los usuarios que se espera que utilicen la aplicación.
+
+A continuación dispondremos los mapas de calor obtenidos de cada uno de los usuarios:
+
+- Sección: **Portada**
+
+- Jose
+
+![explorar-1](https://github.com/seeergiovm/DIU-practicas/assets/75087139/3efa52cb-9f79-4112-a0fd-4c41d2394ee2)
+
+- Sergio
+
+![portada-2](https://github.com/seeergiovm/DIU-practicas/assets/75087139/4a37dfcc-6756-49e7-bf29-2a9b28c832f5)
+
+- Sección: **Explorar**
+
+- Jose
+
+![infotour-1](https://github.com/seeergiovm/DIU-practicas/assets/75087139/0e74af1c-6653-4032-9bb5-5b62f5f9dcbf)
+
+- Sergio
+
+![explorar-2](https://github.com/seeergiovm/DIU-practicas/assets/75087139/17546ce3-2c84-4ce6-8043-83990d4ca6a3)
+
+- Sección: **Información tour**
+
+- Jose
+
+![infotour-1](https://github.com/seeergiovm/DIU-practicas/assets/75087139/2fad1dfe-acc9-41de-a813-ea6d915f4d84)
+
+- Sergio
+
+![infotour-2](https://github.com/seeergiovm/DIU-practicas/assets/75087139/74fdfd6b-4a68-41d5-9790-455cf4bb8930)
+
+- Sección: **Reserva tour**
+
+- Jose
+
+![reserva-1](https://github.com/seeergiovm/DIU-practicas/assets/75087139/913ab033-e73c-4367-ae18-ba82943a5d52)
+
+- Sergio
+
+![reserva-2](https://github.com/seeergiovm/DIU-practicas/assets/75087139/45b302c4-a8bf-433e-ad02-24cd91f1d81c)
 
 >>> 5.c Breve resumen del estudio de accesibilidad (de práctica 1) y puntos fuertes y de mejora de los criterios de accesibilidad de tu diseño propuesto en Práctica 4.
 
