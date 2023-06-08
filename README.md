@@ -300,9 +300,13 @@ Usuario: Sergio
 
 ![reserva-2](https://github.com/seeergiovm/DIU-practicas/assets/75087139/45b302c4-a8bf-433e-ad02-24cd91f1d81c)
 
->>> 5.c Breve resumen del estudio de accesibilidad (de práctica 1) y puntos fuertes y de mejora de los criterios de accesibilidad de tu diseño propuesto en Práctica 4.
+**Análisis de los resultados**
 
+Analizando los mapas de calor, no se producen diferencias muy significativas. Las pocas diferencias que se encuentran son debido a que el usuario experto conoce bien la navegabilidad del sitio web y sabe donde tiene que dirigirse. En cambio, el usuario inexperto se para más detenidamente en ciertos puntos de información como es lógico. El hecho de que se haya producido poca disparidad es una buena señal reflejando que el contenido de la aplicación está bien compactado y un usuario poco usual puede desenvolverse bastante bien sin experiencia previa.
 
+En cuanto a los puntos de interés, ninguno de los dos usuarios ha sentido la necesidad de buscar un tour o de contactar con alguien de la aplicación. Es un detalle positivo ya que significa que la estructura de la información y su contenido es robusta, y no han necesitado ayuda.
+
+En conclusión, a través de dicho experimento, no se han objetado posibles mejores ya que se han obtenido resultados muy satisfactorios en cuanto a la usabilidad de la aplicación.
 
 ## Conclusión final / Valoración de las prácticas
 
