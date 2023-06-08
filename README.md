@@ -310,8 +310,8 @@ En conclusión, a través de dicho experimento, no se han objetado posibles mejo
 
 ## Conclusión final / Valoración de las prácticas
 
+En el transcurso de la asignatura de 'Diseño de Interfaces de Usuario', he tenido la oportunidad de emplear la metodología UX y crear mi propia propuesta de diseño para una aplicación. Personalmente como futuro desarrollador, ahora podré contemplar ciertos aspectos que antes ni los hubiera planteado. Destacar sobre todo la importancia que hay que darle al usuario consumidor, ya que si hacemos hincapié en las necesidades y expectativas del usuario, conseguiremos resultados muy satisfactorios.
 
->>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
 
 
 
